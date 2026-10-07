@@ -69,10 +69,6 @@ Everything I am learning towards these is mapped and tracked in my own **Skill G
   <img src="https://streak-stats.demolab.com?user=hasthij&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasthij&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
-</div>
-
 ---
 
 <div align="center">
