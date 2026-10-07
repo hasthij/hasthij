@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hasthi;Aspiring+Software+Engineer;Building+desktop+apps+with+Tauri;Learning+in+public" alt="Typing intro" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hasthi;Aspiring+Software+Engineer;Building+Tauri+based+apps;" alt="Typing intro" />
 
 <p>
   <b>Pre-university CS student</b> · heading into a BSc (Hons) in Computing (Software Engineering / AI) · Sri Lanka
