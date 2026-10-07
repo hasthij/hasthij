@@ -1,48 +1,80 @@
 <div align="center">
-  <h1>Hasthi</h1>
-  <p>Software Engineer | Full-Stack Development | Open Source</p>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hasthi;Aspiring+Software+Engineer;Building+desktop+apps+with+Tauri;Learning+in+public" alt="Typing intro" />
+
+<p>
+  <b>Pre-university CS student</b> · heading into a BSc (Hons) in Computing (Software Engineering / AI) · Sri Lanka
+</p>
+
+<p>
+  <a href="mailto:hasthij29@gmail.com"><img src="https://img.shields.io/badge/Email-hasthij29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/hasthi-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <img src="https://komarev.com/ghpvc/?username=xdrk14&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
+</p>
+
 </div>
 
 ---
 
-### Professional Overview
+### About Me
 
-* **Focus Areas:** Web Application Architecture, RESTful APIs, and Scalable Backend Systems.
-* **Current Endeavors:** Expanding knowledge in System Design and Cloud-Native Infrastructure.
-* **Collaboration:** Open to contributing to high-impact open-source software and collaborative technical projects.
-
----
-
-### Core Competencies & Technologies
-
-#### Languages & Core
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-#### Frameworks & Environments
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-
-#### Tools & Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+- Completed **Edexcel IAL** — Physics, Mathematics, Information Technology (July 2026)
+- Pre-learning university material before starting my degree, aiming for software engineering and AI
+- Currently building two desktop apps with **Tauri**
+- Contributing to a friend's project through pull requests
+- Prefer learning from documentation over videos
 
 ---
 
-### Metrics & Activity
+### Interests
+
+| Area | Focus |
+|---|---|
+| **Software Engineering** | Clean architecture, building real tools I use daily |
+| **Artificial Intelligence** | Agents and applied AI |
+| **Desktop Applications** | Lightweight native apps with Tauri |
+| **System Design & Cloud** | Scalable backends and cloud-native infrastructure |
+
+Everything I am learning towards these is mapped and tracked in my own **Skill Graph Tracker**.
+
+---
+
+### Tech Stack
+
+<p align="center">
+  <b>Languages</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=js,py,html,css,md&perline=10" />
+</p>
+
+<p align="center">
+  <b>Frameworks & Runtimes</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,tauri&perline=10" />
+</p>
+
+<p align="center">
+  <b>Tools</b><br/><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,windows&perline=10" />
+</p>
+
+---
+
+### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasthij&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasthij&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=xdrk14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdrk14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=xdrk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdrk14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
 
-### Contact & Links
-
-* **Email:** [hasthij29@gmail.com](mailto:hasthij29@gmail.com)
-* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
+<div align="center">
+  <sub>Always learning, always building.</sub>
+</div>
