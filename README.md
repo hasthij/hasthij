@@ -1,70 +1,48 @@
 <div align="center">
-  <h1>Hi there, I'm Hasthi 👋</h1>
-  <p><strong>Software Developer | Open Source Enthusiast | Problem Solver</strong></p>
-
-  <a href="https://github.com/hasthij">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vcenter=true&width=500&lines=Building+impactful+software;Always+learning+new+tech;Open+for+collaborations!" alt="Typing SVG" />
-  </a>
+  <h1>Hasthi</h1>
+  <p>Software Engineer | Full-Stack Development | Open Source</p>
 </div>
 
 ---
 
-### 👨‍💻 About Me
+### Professional Overview
 
-* 🔭 **Currently working on:** Exciting web applications & backend architectures.
-* 🌱 **Currently learning:** Advanced system design & modern cloud frameworks.
-* 👯 **Looking to collaborate on:** Open-source projects & full-stack web applications.
-* 💬 **Ask me about:** JavaScript, Web Development, and algorithm design.
-* ⚡ **Fun fact:** I love solving complex puzzles and continuous learning!
+* **Focus Areas:** Web Application Architecture, RESTful APIs, and Scalable Backend Systems.
+* **Current Endeavors:** Expanding knowledge in System Design and Cloud-Native Infrastructure.
+* **Collaboration:** Open to contributing to high-impact open-source software and collaborative technical projects.
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Core Competencies & Technologies
 
-#### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+#### Languages & Core
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript&logoColor=F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-#### Frameworks & Libraries
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+#### Frameworks & Environments
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+#### Tools & Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 
 ---
 
-### 📊 GitHub Statistics
+### Metrics & Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasthij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Hasthi's GitHub Stats" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasthij&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hasthij&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasthij&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Statistics" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasthij&layout=compact&theme=dark&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 ---
 
-### 📬 Connect With Me
+### Contact & Links
 
-<div align="center">
-  <a href="https://linkedin.com">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
-
-<br />
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=hasthij&color=blueviolet&style=flat-square" alt="Profile Views" />
-</div>
+* **Email:** [hasthij29@gmail.com](mailto:hasthij29@gmail.com)
+* **LinkedIn:** [linkedin.com/in/your-profile](https://linkedin.com)
