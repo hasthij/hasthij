@@ -9,7 +9,7 @@
 <p>
   <a href="mailto:hasthij29@gmail.com"><img src="https://img.shields.io/badge/Email-hasthij29@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/hasthi-j/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=xdrk14&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=hasthij&style=for-the-badge&color=58A6FF&label=Profile+Views" alt="Profile views" />
 </p>
 
 </div>
@@ -61,16 +61,16 @@ Everything I am learning towards these is mapped and tracked in my own **Skill G
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=xdrk14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xdrk14&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=hasthij&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasthij&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=xdrk14&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com?user=hasthij&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xdrk14&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hasthij&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" width="100%" />
 </div>
 
 ---
